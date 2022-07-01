@@ -11,4 +11,4 @@
 - [arrays](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization/arrays)
 - [arraysOfArrays](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization/arraysOfArrays)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&lines=Work+in+progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=58A6FF&lines=Work+in+progress)](https://git.io/typing-svg)
