@@ -9,4 +9,4 @@
 # [Module 2] [Algorithmization](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization)
 
 - [arrays](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization/arrays)
-- [arraysOfArrays](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization/arraysOfArrays
+- [arraysOfArrays](https://github.com/morf1n/epamJavaIntro/tree/main/src/algorithmization/arraysOfArrays)
